@@ -33,7 +33,7 @@ repositorio del curso de electrónica digital: del dato al objeto, de la escuela
 | 01 | Ameli Aravena | 🟢 [NagaiAmeli](https://github.com/NagaiAmeli/bitacora-electronica-digital) |
 | 02 | Nicolás Gálvez | 🟢 [enyi2306](https://github.com/enyi2306/Bit-cora_Electronica_Digital-/tree/main) |
 | 03 | Josefina Guerrero | 🟢 [Josefina-Guerrero-Espinoza](https://github.com/Josefina-Guerrero-Espinoza/Bitacora-electronica) |
-| 04 | Roxanna Martínez | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
+| 04 | Roxanna Martínez | 🟥 [usuario](https://github.com/roxannamartineztud/Bitacora-complementario-electronica-digital-2026) |
 | 05 | Nicole Prado | 🟢 [nicolerenata01](https://github.com/nicolerenata01/Bitacora-electronica-digital-S2-2026) |
 | 06 | Oliver Robles | 🟥 [usuario](https://github.com/misaaaaaa/electronica-dato-al-objeto-2026-s2) |
 | 07 | Vincent (PEV) | 🟢 [vncnt09](https://github.com/vncnt09/bitacora-electronica-digital) |
